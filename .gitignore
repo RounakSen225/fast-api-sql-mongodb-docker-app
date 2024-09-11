@@ -1,0 +1,16 @@
+mongodb/.pytest_cache
+mongodb/lib
+mongodb/bin
+mongodb/include
+mongodb/pyvenv.cfg
+mongodb/.env
+mongodb/t
+sql/.pytest_cache
+sql/lib
+sql/bin
+sql/include
+sql/pyvenv.cfg
+sql/.env
+sql/t
+sql/test.db
+sql/tests/test.db

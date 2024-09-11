@@ -1,0 +1,13 @@
+fastapi
+pydantic
+uvicorn
+pymongo
+python-jose
+pytest
+python-dotenv
+python-multipart
+motor
+httpx
+alembic
+hypothesis
+pytest-asyncio
